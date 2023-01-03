@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/.vs/dllmain
+/dllmain/Release/dllmain.tlog
+/dllmain/Release
+/dllmain/x64
+/Release
+/x64/Release
